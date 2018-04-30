@@ -83,6 +83,53 @@ h3
 	margin-top: 5px;
 	margin-bottom: 0px;
 }
+h4
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 35px;
+	color:#fff;
+	text-align: center;
+	margin-left: 595px;
+	margin-right: 595px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding: 2px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #4ecca3;
+	border-radius: 3px;
+	text-decoration: none;
+	text-overflow: none;
+}
+#ig
+{
+	text-decoration: none;
+}
+#tw
+{
+	text-decoration: none;
+}
+#yt
+{
+	text-decoration: none;
+}
+#ig :hover
+{
+	text-decoration: none;
+	background:
+	linear-gradient( #400080, transparent),
+  	linear-gradient(200deg,#d047d1,#ff0000,#ffff00);
+}
+#tw :hover
+{
+	text-decoration: none;
+	background-color: #0084b4;
+}
+#yt	:hover
+{
+	text-decoration: none;
+	background-color: #ff0000;
+}
 #tone
 {
 	width: 15%;
@@ -139,9 +186,9 @@ p
 }
 #tontext
 {
-	max-width: 200px;
+	max-width: 300px;
 	text-align: center;
 	vertical-align: middle;
-	margin-left: 590px;
-	margin-top: 10px;
+	margin-left: 540px;
+	margin-top: 20px;
 }
