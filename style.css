@@ -4,6 +4,13 @@
 body{font-size:0.8em;}
 sidebar{display:none;}
 img{max-width:100%;}
+#porlomio
+{
+	border-color:#4ecca3;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 200px;
+}
 }
 body
 {
