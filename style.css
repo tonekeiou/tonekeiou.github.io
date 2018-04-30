@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:600');
+body
+{
+	background: #393e46;
+	padding: 0;
+	margin: 0;
+}
+nav
+{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	background-color: #4ecca3;
+}
+ul
+{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+li
+{
+	display: inline-block;
+	padding-right: 2px;
+	padding-left: 2px;
+}
+li a
+{
+	text-decoration: none;
+	color:#fff;
+	background-color: #368f73;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:18px;	
+	border-style:solid;
+	border-width:2px;
+	border-color: #368f73 ;
+	border-radius:4px;
+	padding:2px;
+}
+li a:hover
+{
+	border-style:solid;
+	border-color: #368f73 ;
+	background-color: #4ecca3;
+	color: #fff;
+}
+#porlomio
+{
+	border-color:#4ecca3;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 400px;
+}
+h2
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 55px;
+	color:#fff;
+	margin-left: 45px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+h3
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 55px;
+	color:#fff;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+#tone
+{
+	width: 20%;
+	height: 20%;
+	margin-left: 55px;
+}
+#footer
+{
+	text-align:center;
+	color:white;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:20px;
+	background-color:#4ecca3;
+	position:fixed;
+	bottom:0;
+	right:0;
+	left:0;
+	padding:30px;
+	padding-bottom:3px;
+	padding-top:0px;
+}
+#footersmall
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:13px;
+}
+#fw
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:13px;
+	margin:0px;
+}
+#github
+{
+	width:25px;
+	height:25px;
+	margin-right:5px;
+	margin-top:7px;
+}
+#link
+{
+	width:25px;
+	height:25px;
+	text-decoration:none;
+}
