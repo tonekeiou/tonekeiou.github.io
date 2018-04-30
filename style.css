@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:600');
+@media screen and (min-width:300px) and (max-width:800px) 
+{
+body{font-size:0.8em;}
+sidebar{display:none;}
+img{max-width:100%;}
+}
 body
 {
 	background: #393e46;
